@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ I'm Ruchitha, and I'm a Junior at Purdue University studying Computer Science! ✨
+I'm Ruchitha, and I'm a Junior at Purdue University studying Computer Science! 👩‍💻
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchitha-jagana/)
 
