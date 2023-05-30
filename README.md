@@ -3,7 +3,7 @@
 ✨ I'm Ruchitha, and I'm a Junior at Purdue University studying Computer Science! ✨
 
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchitha-jagana/)
- [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=[rcjagana@gmail.com])
+ [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=[rpjagana@gmail.com])
 
 I'm currently exploring the Software Engineering track and Machine Learning Track, but I love exploring various realms of technology and am always interested in working on new projects!
 
