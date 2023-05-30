@@ -8,8 +8,9 @@ I'm currently exploring the Software Engineering track and Machine Learning Trac
 - 🌱 I’m also currently learning AWS!
 - 📫 How to reach me: I'm always looking to connect with new people and/or collaborate with them on projects, so feel free to reach out to me!
 
+<p align="center">
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruchitha-jagana/)
-
+</p>
 
 
 <!--
